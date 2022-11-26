@@ -1,4 +1,4 @@
-# woocommerce-snippets
+# Woocommerce Snippets
 This repo contains a variety of WooCommerce Snippets to changes a site's functionality.
 
 ## Installation
