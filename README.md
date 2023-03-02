@@ -7,3 +7,4 @@ You need to add the code snippts to your child theme’s `functions.php` file or
 ## Contents
 1. [Exclude products from a particular category on the shop page](snippets/exclude-products-from-shop-page.php)
 2. [Add buttons to products on the shop/category page](snippets/add-to-cart-button.php)
+3. [Include product dimensions and weight in admins emails](snippets/email-order-details.php)
