@@ -9,3 +9,4 @@ You need to add the code snippts to your child theme’s `functions.php` file or
 2. [Add buttons to products on the shop/category page](snippets/add-to-cart-button.php)
 3. [Include product dimensions and weight in admins emails](snippets/email-order-details.php)
 4. [Bypass logged in user can review to allow guests to review too](snippets/reviews.php)
+5. [Quick order search](snippets/admin-bar-order-search.php)
